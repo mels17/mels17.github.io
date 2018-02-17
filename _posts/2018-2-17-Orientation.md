@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 1: Orientation
+title: Before MYOB
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
