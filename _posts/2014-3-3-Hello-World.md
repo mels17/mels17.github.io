@@ -6,8 +6,7 @@ title: Before MYOB
 I graduated from Queensland University of Technology(QUT) with a Bachelors in Computer Engineering. Before MYOB, I only had theoretical knowledge of different programming languages
 
 ---
-layout: post
-title: Week 1 at MYOB: Orientation
+title: Before MYOB
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
