@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Before MYOB
+title: Orientation
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
