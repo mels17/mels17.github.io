@@ -12,7 +12,9 @@ I am a graduate in Computer and Software Systems Engineering from Queensland. I 
 
 ### More information
 
-Now, let's get to some embarassing facts about me. I have butter fingers and am a messy eater. My motto is "Live life to the fullest; except when you're short on money and something needs a lot of it". I love stationeries (pens, pencil - I literally have a mount load of them) and even if one pen goes missing, I end up crying till I find it. 
+A question everyone asks me: When did I decide to become a programmer? Well, I can say not until 4 years ago, when I was making a career choice. Until then it was all sort of things: ranging from a doctor to a lawyer, a food blogger to a food critic (just so I could eat food and it's still on my retirement list of things to do). Since I had no idea until near the end of my high school, I just thought what would I enjoy. Something that had a certain thrill to it, involved mathematics and something was constantly changing and that lead me to programming.
+
+Now, let's get to some embarassing facts about me. I have butter fingers and am a messy eater. My motto is "Live life to the fullest; except when you're short on money and something needs a lot of it". I love stationeries (pens, pencil - I literally have a mount load of them) and even if one pen goes missing, I end up crying till I find it.
 
 ### Contact me
 
