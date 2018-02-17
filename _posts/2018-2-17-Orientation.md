@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Orientation
+title: Weeks 1: Orientation in the Matrix
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
