@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a graduate in Computer and Software Systems Engineering from Queensland. I recently moved to Melbourne and started my grad program with MYOB. My interests include reading books in general, but I enjoy reading murder mysteries the most. I love listening to songs🎶 from all over the world (even though I don't understand the meaning, the music is what appeals to me). Among all the things I love, programming tops it all!😃 
 
 ### Contact me
 
