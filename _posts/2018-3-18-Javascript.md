@@ -15,6 +15,10 @@ That came as a complete surprise to me. My eyes zoomed in on the empty space whe
 
 ```Cause```: I can only think of three ways this could have happened:
 
+> * I suffer from split-personality, where one writes the code and the other *with an evil grin deletes it.
+> * I'm out of my mind and never did write that code in the first place.
+> * The most logical of the three - It's the Ghost of Programming.
+
 
 ### Programming Horror Stories - Chapter 3
 
