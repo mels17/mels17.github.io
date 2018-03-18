@@ -13,9 +13,9 @@ On a completely normal day, I was about to test the code I had written so far. I
 
 That came as a complete surprise to me. My eyes zoomed in on the empty space where the keyword return should have been. I was 100% sure that I had written it there. If this was the first time that it happened to me, I wouldn't have given it a serious thought, but this was the second time...
 
-```**Cause**```: I can only think of three ways this could have happened:
+__```Cause```__: I can only think of three ways this could have happened:
 
-> * I suffer from split-personality, where one writes the code and the other *with an evil grin deletes it.
+> * I suffer from split-personality, where one writes the code and the other \****with an evil grin*** deletes it.
 > * I'm out of my mind and never did write that code in the first place.
 > * The most logical of the three - It's the Ghost of Programming.
 
@@ -23,4 +23,10 @@ That came as a complete surprise to me. My eyes zoomed in on the empty space whe
 
 **Starring**: Jasmine, Webstorm and JavaScript
 
-This chapter is also dedicated to testing. This has happened to me twice in a row and goes like this... On a fine morning, I was writing tests for a piece of code. Like always, the errors showed up and I tried to debug them. Albeit some errors where persistent and I couldn't get them fixed no matter what. Again, like always, I planned to get help from my mentor, Andrew. But something behind my mind urged me to run the tests again. I did and the unspeakable happened... they turned ***green*** without me having to make any changes at all to my code. 
+This chapter is also dedicated to testing. This has happened to me twice in a row and goes like this... On a fine morning, I was writing tests for a piece of code. Like always, the errors showed up and I tried to debug them. Albeit some errors where persistent and I couldn't get them fixed no matter what. Again, like always, I planned to get help from my mentor, Andrew. But something behind my mind urged me to run the tests again. I did and the unspeakable happened... they turned ***green*** without me having to make any changes at all to my code. To this day, I don't know what's happening and continue my wait for for the errors to come back. 
+
+Based on my deductions, there are three ways this could have happened:
+
+> * Seeing how I didn't have jasmine debugger in webstorm, the tests took pity on me and decided to resolve themselves
+> * The tests got annoyed at me for inserting console.logs everywhere and fixed themselves.
+> * ***OR*** JS is simply moody.
